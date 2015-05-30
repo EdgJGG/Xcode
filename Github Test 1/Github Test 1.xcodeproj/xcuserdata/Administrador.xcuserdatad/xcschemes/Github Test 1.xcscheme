@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "83B600AB1B198B3A00924D2F"
-               BuildableName = "Hello World.app"
-               BlueprintName = "Hello World"
-               ReferencedContainer = "container:Hello World.xcodeproj">
+               BlueprintIdentifier = "83B11D011B1991820052970E"
+               BuildableName = "Github Test 1.app"
+               BlueprintName = "Github Test 1"
+               ReferencedContainer = "container:Github Test 1.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -28,10 +28,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "83B600C01B198B3A00924D2F"
-               BuildableName = "Hello WorldTests.xctest"
-               BlueprintName = "Hello WorldTests"
-               ReferencedContainer = "container:Hello World.xcodeproj">
+               BlueprintIdentifier = "83B11D161B1991830052970E"
+               BuildableName = "Github Test 1Tests.xctest"
+               BlueprintName = "Github Test 1Tests"
+               ReferencedContainer = "container:Github Test 1.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -46,20 +46,20 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "83B600C01B198B3A00924D2F"
-               BuildableName = "Hello WorldTests.xctest"
-               BlueprintName = "Hello WorldTests"
-               ReferencedContainer = "container:Hello World.xcodeproj">
+               BlueprintIdentifier = "83B11D161B1991830052970E"
+               BuildableName = "Github Test 1Tests.xctest"
+               BlueprintName = "Github Test 1Tests"
+               ReferencedContainer = "container:Github Test 1.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "83B600AB1B198B3A00924D2F"
-            BuildableName = "Hello World.app"
-            BlueprintName = "Hello World"
-            ReferencedContainer = "container:Hello World.xcodeproj">
+            BlueprintIdentifier = "83B11D011B1991820052970E"
+            BuildableName = "Github Test 1.app"
+            BlueprintName = "Github Test 1"
+            ReferencedContainer = "container:Github Test 1.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -76,10 +76,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "83B600AB1B198B3A00924D2F"
-            BuildableName = "Hello World.app"
-            BlueprintName = "Hello World"
-            ReferencedContainer = "container:Hello World.xcodeproj">
+            BlueprintIdentifier = "83B11D011B1991820052970E"
+            BuildableName = "Github Test 1.app"
+            BlueprintName = "Github Test 1"
+            ReferencedContainer = "container:Github Test 1.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -95,10 +95,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "83B600AB1B198B3A00924D2F"
-            BuildableName = "Hello World.app"
-            BlueprintName = "Hello World"
-            ReferencedContainer = "container:Hello World.xcodeproj">
+            BlueprintIdentifier = "83B11D011B1991820052970E"
+            BuildableName = "Github Test 1.app"
+            BlueprintName = "Github Test 1"
+            ReferencedContainer = "container:Github Test 1.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

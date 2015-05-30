@@ -1,6 +1,6 @@
 //
-//  Hello_WorldTests.swift
-//  Hello WorldTests
+//  Github_Test_1Tests.swift
+//  Github Test 1Tests
 //
 //  Created by Administrador on 30/05/15.
 //  Copyright (c) 2015 Administrador. All rights reserved.
@@ -9,7 +9,7 @@
 import UIKit
 import XCTest
 
-class Hello_WorldTests: XCTestCase {
+class Github_Test_1Tests: XCTestCase {
     
     override func setUp() {
         super.setUp()

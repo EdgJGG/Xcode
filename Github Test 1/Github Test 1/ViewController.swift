@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  Hello World
+//  Github Test 1
 //
 //  Created by Administrador on 30/05/15.
 //  Copyright (c) 2015 Administrador. All rights reserved.
@@ -10,14 +10,9 @@ import UIKit
 
 class ViewController: UIViewController {
 
-    @IBOutlet var lblOne: UILabel!
-    
-    override func viewDidLoad()
-    {
-        
+    override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
-        lblOne.text = "Hello World"
     }
 
     override func didReceiveMemoryWarning() {
