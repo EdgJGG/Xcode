@@ -10,9 +10,14 @@ import UIKit
 
 class ViewController: UIViewController {
 
-    override func viewDidLoad() {
+    @IBOutlet var lblText: UILabel!
+    
+    override func viewDidLoad()
+    {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        lblText.text = "Hello World"
+        
     }
 
     override func didReceiveMemoryWarning() {
