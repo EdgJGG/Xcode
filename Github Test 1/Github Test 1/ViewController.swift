@@ -11,11 +11,13 @@ import UIKit
 class ViewController: UIViewController
 {
     @IBOutlet var lblOne: UILabel!
+    @IBOutlet var lblTwo: UILabel!
 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         lblOne.text = "First Label"
+        lblTwo.text = "Second Label"
     }
 
     override func didReceiveMemoryWarning() {
